@@ -1,2 +1,2 @@
-# jenkins-lab
-My first Jenkins practice repo”
+# Jenkins Lab
+Testing webhook trigger
